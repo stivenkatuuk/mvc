@@ -1,6 +1,7 @@
 <?php 
 
     class route extends core{
+
     	/**
     	 * [Method set mempunyai 2 parameter yaitu $route dan $function.
     	 * 	parameter pertama ialah controllernya.
@@ -13,6 +14,7 @@
     	 */
         public static function set($router,$function){
             $function->__invoke($route);
+
         }
     }
 

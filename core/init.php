@@ -7,4 +7,5 @@
     require_once('route.php');
 
     core::getConfigDefaultRoute($config["route"]["default"]);
+
 ?>

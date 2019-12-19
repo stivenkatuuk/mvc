@@ -6,6 +6,7 @@
     // $config['db']['password'] = "";
 
     // route 
+
     $config['route']['default'] = "world";
     
 

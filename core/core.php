@@ -2,6 +2,7 @@
 
     class core{
         
+
         /**
          * [
          * 	method getConfigDefaultRoute membutuhkan 1 parameter yaitu 
